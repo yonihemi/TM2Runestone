@@ -4,6 +4,9 @@ Runestone is an awesome text editor for iOS/iPadOS currently being developed by 
 
 This library converts [tmTheme](http://www.sublimetext.com/docs/color_schemes_tmtheme.html) files used in TextMate/Sublime and many other editors to `runestonetheme` files.
 
+## Usage
+See [RunestoneThemes](https://github.com/yonihemi/RunestoneThemes) for sample usage.
+
 ## Todo
 
 - [ ] Translate scopes between tmTheme and tree-sitter more intelligently. Current implementation is based on trial and error.
